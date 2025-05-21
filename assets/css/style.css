@@ -7956,12 +7956,12 @@ body div.wpforms-container .wpforms-form button.onovo-btn[type=submit],
 
 /* Preloader BG Color */
 .preloader::after {
-  background-color: #000000;
+  background-color: #D51F35;
 }
 
 /* Preloader Color */
 .preloader__double-bounce {
-  background-color: #D8FF36;
+  background-color: #FEBB29;
 }
 
 /* --options end */
